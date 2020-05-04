@@ -90,7 +90,6 @@ print(list_prime_numbers)
 print("total iteration number: ", total_iteration_number)
 
 
-
 # user_input = int(input("Enter an upper limit: ")) + 1
 # list_prime_numbers = list()
 
@@ -107,7 +106,6 @@ print("total iteration number: ", total_iteration_number)
 #         list_prime_numbers.append(outher_loop) 
 
 # print(list_prime_numbers)
-
 
 
 # for i in range(1, user_input):
@@ -129,8 +127,7 @@ print("total iteration number: ", total_iteration_number)
 #     else:
 #         print(i, "not prime")
 
-#     if half_of_the_user_input + 1 >= i:                             # is_prime = True
-
+#     if half_of_the_user_input + 1 >= i:      # is_prime = True
 
 
 
